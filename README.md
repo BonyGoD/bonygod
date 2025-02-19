@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy BonyGoD</h1>
+<h1 align="center">Hola 👋, Soy Ivan Boniquet</h1>
 <h3 align="center">FullStack developer</h3>
 
 - 🔭 Actualmente trabajando en [DisApp](https://github.com/BonyGoD/DisApp)
