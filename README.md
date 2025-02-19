@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonygod&show_icons=true&locale=en&layout=compact" alt="bonygod" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonygod&show_icons=true&locale=en" alt="bonygod" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonygod&" alt="bonygod" /></p>
