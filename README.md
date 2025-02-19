@@ -13,7 +13,7 @@
 
     Actualmente, estoy trabajando para el cliente Ecoembes en el proyecto Reciclos a través de NTTDATA, donde lidero un equipo de desarrolladores especializados en React y React Native
 
-- ⚡ Bonus Track **Apasionado de los videojuegos!**
+- ⚡ Bonus Track **Apasionado de los videojuegos y el anime**
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
