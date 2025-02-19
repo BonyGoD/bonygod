@@ -7,9 +7,13 @@
 
 - 📫 Como contactar conmigo **bonygod.dev@gmail.com**
 
-- 📄 Mi experiencia [Soy un apasionado de la informática y Full Stack Developer con una sólida experiencia en el desarrollo de software. A lo largo de mi carrera, he tenido la oportunidad de trabajar en reconocidas empresas como Planeta d'Agostini, Cirsa, DKV, La Caixa y Ecoembes, colaborando con estas tres últimas a través de las consultoras Everis y NTTDATA. 
+- 📄 Mi experiencia: 
 
-    Actualmente, estoy trabajando para el cliente Ecoembes en el proyecto Reciclos a través de NTTDATA, donde lidero un equipo de desarrolladores especializados en React y React Native]
+    Soy un apasionado de la informática y Full Stack Developer con una sólida experiencia en el desarrollo de software. 
+
+    A lo largo de mi carrera, he tenido la oportunidad de trabajar en reconocidas empresas como Planeta d'Agostini, Cirsa, DKV, La Caixa y Ecoembes, colaborando con estas tres últimas a través de las consultoras Everis y NTTDATA. 
+
+    Actualmente, estoy trabajando para el cliente Ecoembes en el proyecto Reciclos a través de NTTDATA, donde lidero un equipo de desarrolladores especializados en React y React Native
 
 - ⚡ Bonus Track **Apasionado de los videojuegos!**
 
