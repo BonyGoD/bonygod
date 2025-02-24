@@ -11,7 +11,7 @@
 
     A lo largo de mi carrera, he tenido la oportunidad de trabajar en reconocidas empresas como Planeta d'Agostini, Cirsa, DKV, La Caixa y Ecoembes, colaborando con estas tres últimas a través de las consultoras Everis y NTTDATA. 
 
-    Actualmente, estoy trabajando para el cliente Ecoembes en el proyecto Reciclos a través de NTTDATA, donde lidero un equipo de desarrolladores especializados en React / React Native y a nivel personal estoy desarrollando 2 proyectos en Android con Jetpack Compose y         Kotlin Multiplatform ([DisApp](https://github.com/BonyGoD/DisApp) y [GymRoutine](https://github.com/BonyGoD/gymroutine)).
+    Actualmente, estoy trabajando para el cliente Ecoembes en el proyecto Reciclos a través de NTTDATA, donde lidero un equipo de desarrolladores especializados en React / React Native y a nivel personal estoy desarrollando 2 proyectos, uno en Android con Jetpack Compose y el otro en Android e iOS en Kotlin Multiplatform ([DisApp](https://github.com/BonyGoD/DisApp) y [GymRoutine](https://github.com/BonyGoD/gymroutine)).
 
 - ⚡ Bonus Track **Apasionado de los videojuegos y el anime**
 
