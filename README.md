@@ -9,12 +9,12 @@
 
     Soy un apasionado de la informática y Full Stack Developer con una sólida experiencia en el desarrollo de software. 
 
-    A lo largo de mi carrera, he tenido la oportunidad de trabajar en reconocidas empresas como Planeta d'Agostini, Cirsa, DKV, La Caixa y Ecoembes, colaborando con estas tres últimas a través de las consultoras Everis y NTTDATA.
+    A lo largo de mi carrera, he tenido la oportunidad de trabajar en reconocidas empresas como Planeta d'Agostini, Cirsa, DKV, La Caixa, Ecoembes e Inditex, colaborando con estas cuatro últimas a través de las consultoras Everis y NTTDATA.
 
     He desarrollado 1 WEB en React con vite, [DevWare](https://github.com/BonyGoD/DevwareWEB) en colaboracion con [DonRaju](https://github.com/DonRaju) y he colaborado a crear otra en la misma tecnologia para [Grifolls](https://grifolls.es).
     Para estos 2 proyectos, cree 1 API en node.js para gestion de fotos y envio de emails a traves de resend, alojada en vercel.
 
-    Actualmente, estoy trabajando para el cliente Ecoembes en el proyecto Reciclos a través de NTTDATA, donde lidero un equipo de desarrolladores especializados en React && React Native y a nivel personal estoy desarrollando 2 proyectos, uno en Android con Jetpack Compose y el otro en Android e iOS en Kotlin Multiplatform ([DisApp](https://github.com/BonyGoD/DisApp) y [GymRoutine](https://github.com/BonyGoD/gymroutine)).
+    Actualmente, estoy trabajando para el cliente Inditex en el proyecto Shopper a través de NTTDATA, donde formo parte de un equipo de desarrolladores especializados en Android con Jetpack Compose y a nivel personal estoy desarrollando 2 proyectos, uno en Android con Jetpack Compose y el otro en Android e iOS en Kotlin Multiplatform ([DisApp](https://github.com/BonyGoD/DisApp) y [GymRoutine](https://github.com/BonyGoD/gymroutine)).
 
 - ⚡ Bonus Track **Apasionado de los videojuegos y el anime**
 
