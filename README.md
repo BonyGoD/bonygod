@@ -14,7 +14,7 @@
     He desarrollado 1 WEB en React con vite, [DevWare](https://github.com/BonyGoD/DevwareWEB) en colaboracion con [DonRaju](https://github.com/DonRaju) y he colaborado a crear otra en la misma tecnologia para [Grifolls](https://grifolls.es).
     Para estos 2 proyectos, cree 1 API en node.js para gestion de fotos y envio de emails a traves de resend, alojada en vercel.
 
-    Actualmente, estoy trabajando para el cliente Inditex en el proyecto Shopper a través de NTTDATA, donde formo parte de un equipo de desarrolladores especializados en Android con Jetpack Compose y a nivel personal estoy desarrollando 2 proyectos, uno en Android con Jetpack Compose y el otro en Android e iOS en Kotlin Multiplatform ([DisApp](https://github.com/BonyGoD/DisApp) y [GymRoutine](https://github.com/BonyGoD/gymroutine)).
+    Actualmente, estoy trabajando para el cliente Inditex en el proyecto Shopper a través de NTTDATA, donde formo parte de un equipo de desarrolladores especializados en Android con Jetpack Compose y a nivel personal estoy desarrollando 3 proyectos, uno en Android con Jetpack Compose y los otros dos en Android e iOS en Kotlin Multiplatform ([DisApp](https://github.com/BonyGoD/DisApp), [GymRoutine](https://github.com/BonyGoD/gymroutine) y [ListaCompra](https://github.com/BonyGoD/ListaCompraApp)).
 
 - ⚡ Bonus Track **Apasionado de los videojuegos y el anime**
 
