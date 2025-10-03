@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Ivan Boniquet</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🔭 Actualmente trabajando en [DisApp](https://github.com/BonyGoD/DisApp) y [GymRoutine](https://github.com/BonyGoD/gymroutine)
+- 🔭 Actualmente trabajando en [DisApp](https://github.com/BonyGoD/DisApp), [GymRoutine](https://github.com/BonyGoD/gymroutine) y [ListaCompra](https://github.com/BonyGoD/ListaCompraApp)
 
 - 📫 Como contactar conmigo **bonygod.dev@gmail.com**
 
