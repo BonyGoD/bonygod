@@ -3,6 +3,8 @@
 
 - 🔭 Actualmente trabajando en [DisApp](https://github.com/BonyGoD/DisApp), [GymRoutine](https://github.com/BonyGoD/gymroutine) y [ListaCompra](https://github.com/BonyGoD/ListaCompraApp)
 
+- 🔭 Creador de librería para login con Google con iOS & Android en KMP [GoogleSignInKMP](https://github.com/BonyGoD/GoogleSignInKMP)
+
 - 📫 Como contactar conmigo **bonygod.dev@gmail.com**
 
 - 📄 Mi experiencia: 
